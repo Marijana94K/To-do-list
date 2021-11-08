@@ -17,6 +17,7 @@ background-color: rgb(250, 143, 196);
 box-shadow: 0 2px 8px  black;
 width: 460px;
 height: 600px;
+border-radius: 20px;
 text-align: center;
 font-family: 'Times New Roman', Times, serif;
 }
